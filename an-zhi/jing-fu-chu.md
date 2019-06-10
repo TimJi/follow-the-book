@@ -14,4 +14,4 @@
 
 &emsp;&emsp;在今天這麼注重環保的時代，關心我們的事業亦包括關心我們的生活環境。
 
-![**1997 年安麗獲頒雨林聯盟綠色地球獎**](../.gitbook/assets/lian-meng-lv-se-di-qiu-jiang.jpeg)
+![1997 年安麗獲頒雨林聯盟綠色地球獎](../.gitbook/assets/lian-meng-lv-se-di-qiu-jiang.jpeg)
