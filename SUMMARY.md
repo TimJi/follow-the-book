@@ -57,13 +57,13 @@
 
 ## 前傳
 
-* [肯定安麗價值](qian/ken-ding-an-zhi.md)
-* [我們以信譽支持你的事業](qian/wo-yi-xin-zhi-chi-ni-de-shi.md)
-* [開啟機會之門](qian/zhi.md)
-* [選擇的自由](qian/de-zi-you.md)
-* [鑽石之路](qian/shi-zhi-lu.md)
-* [鞏固的安麗事業](qian/gu-de-an-shi.md)
-* [如何使你的業績在兩星期內增加一倍](qian/ru-he-shi-ni-de-zai-xing-qi-zeng-jia-yi-bei.md)
-* [個人接觸](qian/ren-jie.md)
-* [書、錄音帶、會議](qian/yin.md)
+* [肯定安麗價值](qian-chuan/ken-ding-an-zhi.md)
+* [我們以信譽支持你的事業](qian-chuan/wo-yi-xin-zhi-chi-ni-de-shi.md)
+* [開啟機會之門](qian-chuan/zhi.md)
+* [選擇的自由](qian-chuan/de-zi-you.md)
+* [鑽石之路](qian-chuan/shi-zhi-lu.md)
+* [鞏固的安麗事業](qian-chuan/gu-de-an-shi.md)
+* [如何使你的業績在兩星期內增加一倍](qian-chuan/ru-he-shi-ni-de-zai-xing-qi-zeng-jia-yi-bei.md)
+* [個人接觸](qian-chuan/ren-jie.md)
+* [書、錄音帶、會議](qian-chuan/yin.md)
 
